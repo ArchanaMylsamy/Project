@@ -1,0 +1,185 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v1_4home {
+    width: 100%;
+    height: 100vh;
+    background:url("https://i.pinimg.com/564x/54/14/46/541446aabc37bd237a6104b8b2d59805.jpg");
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  }
+  .v2_14home {
+    width: 100%;
+    height: 100%;
+    background: url("");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1040px;
+    left: 1px;
+    transform: rotate(-90deg);
+    overflow: hidden;
+  }
+  .imagelogohome{
+    width:30%;
+    height:50%;
+    margin-left: 890px;
+    margin-top:100px;
+    
+  
+  }
+  .v82_180home {
+    width: 442px;
+    height: 311px;
+    background: url("");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 355px;
+    left: 808px;
+    overflow: hidden;
+  }
+  .v15_2home {
+    width: 817px;
+    color: rgba(73,160,16,1);
+    position: absolute;
+    top: 600px;
+    left: 316px;
+    font-family: Encode Sans;
+    font-weight: SemiBold;
+    font-size: 28px;
+    opacity: 1;
+    word-spacing: 30px;
+    padding-left: 150px;
+    text-align: center;
+  }
+  .v2_27home {
+    width: 720px;
+    color:green;
+    position: absolute;
+    top: 212px;
+    left: 124px;
+    
+    font-size: 86px;
+    opacity: 1;
+    text-align: left;
+  }
+  .headhome{
+    padding-bottom:- 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .sideheadhome{
+    font-family: 'sans-serif';
+    font-weight:100;
+  }
+  .v277_484home {
+    width: 868px;
+    height: 87px;
+    background: url("");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 4px;
+    left: 547px;
+    overflow: hidden;
+  }
+  .v2_22home{
+    width: 168px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 37px;
+    left: 213px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+    text-decoration: none;
+  }
+  .v2_36home {
+    width: 106px;
+    height: 9px;
+    opacity: 1;
+    position: absolute;
+    top: 78px;
+    left: 5px;
+    overflow: hidden;
+  }
+  .v2_23home {
+    width: 165px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 37px;
+    left: 703px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+    text-decoration: none;
+  }
+  .v2_25home {
+    width: 176px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 39px;
+    left: 459px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+    text-decoration: none;
+  }
+  .v2_21home {
+    width: 109px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 37px;
+    left: 0px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 32px;
+    opacity: 1;
+    text-align: center;
+    text-decoration: none;
+  }
+  .v2_19home {
+    width: 169px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 35px;
+    left: 87px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v2_18home {
+    width: 87px;
+    height: 94px;
+    background: url("https://cdn-icons-png.flaticon.com/512/188/188333.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }

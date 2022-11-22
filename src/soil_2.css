@@ -1,0 +1,69 @@
+.coimbatore {
+    color: #000;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 25px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-family: Montserrat;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 44px;
+    display: flex;
+  }
+  
+  .bg-16-1 {
+    height: 100%;
+    background-image: url("https://i.pinimg.com/564x/76/ad/d5/76add55a9ab443ea91c907fc88f3d795.jpg");
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 57px;
+    padding-left: 9px;
+    padding-right: 15px;
+    display: flex;
+  }
+  
+  .flex-container {
+    width: 60%;
+    flex-direction: row;
+    flex-basis: 3%;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: center;
+    margin-bottom: 32px;
+    font-family: Inter;
+    line-height: 39px;
+    display: flex;
+  }
+  .pictures{
+    padding-top: 7%;
+  }
+  .coimbatore-1 {
+    color: #fff;
+    margin-bottom: 69px;
+    margin-left: 3px;
+    font-size: 2.25rem;
+  }
+  .group-33885{
+    color:white;
+    padding-left: 50%;
+    font-size: 30px;
+    padding-top:0;
+    word-spacing:30px ;
+  }
+  
+  .rectangle-247 {
+    width: 1392px;
+    height: 534px;
+    object-fit: cover;
+    margin-bottom: 78px;
+    margin-left: 12px;
+    opacity:0.7;
+  }

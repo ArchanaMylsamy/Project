@@ -1,0 +1,324 @@
+.tractor-page {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 25px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: Inter;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 39px;
+    display: flex;
+  }
+   .side{
+    color: #000;
+    padding-top:50px;
+    font-weight: italic;
+    font-size: 35px;
+   }
+  
+  .pexels-aliona-pasha {
+    height: 100%;
+    background-image: url("https://i.pinimg.com/564x/52/7e/b7/527eb7ebc4bc3d79a93c8dea3c6378b5.jpg");
+    background-position: center;
+    background-size: cover;
+    padding-top: 31px;
+  }
+  
+  .group-33885{
+    color: #000;
+    padding-left: 60%;
+    font-size: 25px;
+    padding-top:10px;
+    word-spacing:20px ;
+    font-weight: bold;
+  }
+  .about-us {
+    text-align: center;
+    margin-top: 2px;
+  }
+  
+  .home{
+    text-align: center;
+    margin-top: 2px;
+  }
+  .services{
+    text-align: center;
+    margin-top: 2px;
+  }
+  .contact {
+    text-align: center;
+    margin-top: 2px;
+  }
+  .drop{
+    text-align: center;
+  }
+  .dropdownbtn {
+    background-color: black;
+    color: white;
+    padding: 12px;
+    font-size: 12px;
+    }
+    .dropdowndemo{
+    position:fixed;
+    display: block;
+    padding-left: 720px;
+    width: 100%;
+    
+    }
+    .dropdownlist-content {
+    display: none;
+    position: absolute;
+    background-color:green;
+    min-width: 120px;
+    z-index: 1;
+    }
+    .dropdownlist-content a {
+    color: white;
+    padding: 14px 18px;
+    display: block;
+    }
+    .dropdownlist-content a:hover {background-color: black;}
+    .dropdowndemo:hover .dropdownlist-content {display: block;}
+    .dropdowndemo:hover .dropdownbtn {background-color:yellowgreen;}
+  
+  .glow-on-hover {
+      width: 220px;
+      height: 50px;
+      border: none;
+      outline: none;
+      color: #fff;
+      background: #111;
+      cursor: pointer;
+      position: relative;
+      z-index: 0;
+      margin-left: 20%;
+      border-radius: 10px;
+  }
+  .glow-on-hover1 {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    margin-left: 20%;
+    border-radius: 10px;
+  }
+  .glow-on-hover3 {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    margin-top: 5%;
+    margin-left: 20%;
+    border-radius: 10px;
+  }
+  .glow-on-hover2 {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    margin-left: 30%;
+    border-radius: 10px;
+  }
+  .glow-on-hover:before {
+      content: '';
+      background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+      position: absolute;
+      top: -2px;
+      left:-2px;
+      background-size: 400%;
+      z-index: -1;
+      filter: blur(5px);
+      width: calc(100% + 4px);
+      height: calc(100% + 4px);
+      animation: glowing 20s linear infinite;
+      opacity: 0;
+      transition: opacity .3s ease-in-out;
+      border-radius: 10px;
+  }
+  
+  .glow-on-hover:active {
+      color: #000
+  }
+  
+  .glow-on-hover:active:after {
+      background: transparent;
+  }
+  
+  .glow-on-hover:hover:before {
+      opacity: 1;
+  }
+  
+  .glow-on-hover:after {
+      z-index: -1;
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background: #111;
+      left: 0;
+      top: 0;
+      border-radius: 10px;
+  }
+  
+  @keyframes glowing {
+      0% { background-position: 0 0; }
+      50% { background-position: 400% 0; }
+      100% { background-position: 0 0; }
+  }
+  .glow-on-hover1:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+  }
+  
+  .glow-on-hover1:active {
+    color: #000
+  }
+  
+  .glow-on-hover1:active:after {
+    background: transparent;
+  }
+  
+  .glow-on-hover1:hover:before {
+    opacity: 1;
+  }
+  
+  .glow-on-hover1:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+  }
+  
+  @keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+  }
+  .glow-on-hover2:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+  }
+  
+  .glow-on-hover2:active {
+    color: #000
+  }
+  
+  .glow-on-hover2:active:after {
+    background: transparent;
+  }
+  
+  .glow-on-hover2:hover:before {
+    opacity: 1;
+  }
+  
+  .glow-on-hover2:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+  }
+  
+  @keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+  }
+  .glow-on-hover3:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+  }
+  
+  .glow-on-hover3:active {
+    color: #000
+  }
+  
+  .glow-on-hover3:active:after {
+    background: transparent;
+  }
+  
+  .glow-on-hover3:hover:before {
+    opacity: 1;
+  }
+  
+  .glow-on-hover3:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+  }
+  
+  @keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+  }

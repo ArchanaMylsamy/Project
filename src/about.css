@@ -1,0 +1,72 @@
+.about-us-pageaboutus {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #e4f9de;
+    border-radius: 25px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-family: Cormorant Infant;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 39px;
+    display: flex;
+  }
+  
+  .bg-5-1aboutus {
+    height: 100%;
+    background-image: url("https://i.pinimg.com/564x/23/5c/9e/235c9efa2f14bc655f57d89aac0fb265.jpg");
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 50px;
+    padding-right: 29px;
+    display: flex;
+  }
+  
+  
+  .group-33885aboutus{
+    color: #000;
+    padding-left: 50%;
+    font-size: 30px;
+    
+    word-spacing:30px ;
+  }
+  .homeaboutus{
+    padding-top: 2px;
+    color: #000;
+  }
+  
+  .rectangle-3aboutus {
+    width: 169px;
+    height: 9px;
+    object-fit: cover;
+    align-self: flex-end;
+    margin-bottom: 159px;
+  }
+  
+  .about-us-1aboutus {
+    text-align: center;
+    color: #21441c;
+    margin-bottom: 79px;
+    margin-left: 7px;
+    font-family: Expletus Sans;
+    font-size: 4rem;
+    padding-top: 160px;
+    line-height: 86px;
+  }
+  
+  .irrigreat-helps-farmaboutus {
+    margin-left: 50px;
+    font-weight: 400;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .link1aboutus,.link2aboutus,.link3aboutus,.link4aboutus{
+    text-decoration: none;
+    color:black
+  }
+  

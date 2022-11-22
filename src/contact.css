@@ -1,0 +1,230 @@
+.contact-page {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #e4f9de;
+    border-radius: 25px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    font-family: Poppins;
+    font-size: .938rem;
+    font-weight: 300;
+    line-height: 23px;
+    display: flex;
+  }
+  .group-33885{
+    color: #000;
+    padding-left: 4%;
+    font-size: 30px;
+    padding-top:20px;
+    word-spacing:30px ;
+    flex-direction: row;
+  }
+  .bg-6-1 {
+    height: 100%;
+    background-image: url("https://i.pinimg.com/564x/e8/80/5f/e8805f42beac04332eb091c61ff97368.jpg");
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-right: 22px;
+    display: flex;
+  }
+  
+  .flex-container {
+    text-align: center;
+    width: 60%;
+    flex-direction: row;
+    flex-basis: 3%;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: center;
+    margin-bottom: 8px;
+    font-family: Inter;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 39px;
+    display: flex;
+  }
+  
+  
+  
+  .rectangle-3 {
+    width: 165px;
+    height: 9px;
+    object-fit: cover;
+    align-self: flex-end;
+    margin-bottom: 145px;
+  }
+  
+  .contact-1 {
+    text-align: center;
+    margin-bottom: 38px;
+    margin-left: 20px;
+    font-family: Donegal One;
+    font-size: 3rem;
+    font-weight: 400;
+    line-height: 60px;
+  }
+  
+  .flex-container-1 {
+    width: 15%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 38px;
+    margin-left: 25px;
+    display: flex;
+  }
+  
+  .vector {
+    width: 24px;
+    height: 25px;
+    object-fit: cover;
+  }
+  
+  .tamil-nadu-india {
+    margin-top: 1px;
+  }
+  
+  .flex-container-2 {
+    width: 15%;
+    flex-direction: row;
+    flex-basis: 2%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 29px;
+    margin-left: 25px;
+    display: flex;
+  }
+  
+  .vector-1 {
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+    align-self: flex-end;
+  }
+  .vector-2{
+    width: 24px;
+    height: 24px;
+    padding-left: 8%;
+    object-fit: cover;
+    align-self: flex-end;
+  }
+  
+  .flex-container-3 {
+    width: 20%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 21px;
+    margin-left: 53px;
+    display: flex;
+  }
+  
+  .fluentmail-28-filled {
+    width: 28px;
+    height: 28px;
+    object-fit: cover;
+  }
+  
+  .num-727721-euit-011-skce {
+    margin-bottom: 3px;
+    font-size: 20px;
+  }
+  .contact{}
+  .num{
+    font-size: 20px;
+  }
+  .rectangle-24 {
+    color: #000;
+    width: 100%;
+    background-color: #d9d9d9;
+    border: none;
+    border-radius: 25px;
+    flex-direction: row;
+    flex-basis: 6%;
+    justify-content: flex-start;
+    align-items: stretch;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    font-family: Crimson Pro;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 50px;
+    display: flex;
+  }
+  
+  .rectangle-25 {
+    width: 35%;
+    background-color: #d9d9d9;
+    border-radius: 25px;
+    flex-direction: row;
+    flex-basis: 6%;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    padding-top: 5px;
+    padding-left: 26px;
+    font-family: Crimson Pro;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 50px;
+    display: flex;
+  }
+  
+  .phone-number-or-e-ma {
+    margin-top: 2px;
+  }
+  
+  .rectangle-23 {
+    color: #000;
+    width: 35%;
+    background-color: #d9d9d9;
+    border: none;
+    border-radius: 25px;
+    flex-direction: row;
+    flex-basis: 6%;
+    justify-content: flex-start;
+    align-items: stretch;
+    margin-bottom: 38px;
+    margin-left: 10px;
+    font-family: Crimson Pro;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 50px;
+    display: flex;
+  }
+  .tamil-nadu-india{
+    font-size: 20px;
+  }
+  .rectangle-26 {
+    color: #fbf2f2;
+    width: 50%;
+    background-color: #3d850e;
+    border: none;
+    border-radius: 25px;
+    flex-direction: row;
+    flex-basis: 6%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 86px;
+    margin-left: 30%;
+    
+    padding-top: 3px;
+    padding-right: 5px;
+    font-family: Crimson Pro;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 50px;
+    display: flex;
+  }
+  
+  .send {
+    margin-top: 1px;
+  }
+  

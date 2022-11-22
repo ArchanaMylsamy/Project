@@ -1,0 +1,87 @@
+.tractor-page {
+  color: #000;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  border-radius: 25px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: Inter;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 39px;
+  display: flex;
+}
+ .side{
+  color: #000;
+  padding-top:50px;
+  font-weight: italic;
+  font-size: 35px;
+ }
+
+.pexels-aliona-pasha {
+  height: 100%;
+  background-image: url("https://i.pinimg.com/564x/a7/99/1e/a7991e6f84cdf03b3dd95ce3ca1ca9e5.jpg");
+  background-position: center;
+  background-size: cover;
+  
+}
+
+.group-33885{
+  color: #000;
+  padding-left: 60%;
+  font-size: 25px;
+  padding-top:10px;
+  word-spacing:20px ;
+  font-weight: bold;
+}
+.about-us {
+  text-align: center;
+  margin-top: 2px;
+}
+
+.home{
+  text-align: center;
+  margin-top: 2px;
+}
+.services{
+  text-align: center;
+  margin-top: 2px;
+}
+.contact {
+  text-align: center;
+  margin-top: 2px;
+}
+.drop{
+  text-align: center;
+  padding-top: 10%;
+}
+.dropdownbtn {
+  background-color: black;
+  color: white;
+  padding: 12px;
+  font-size: 12px;
+  }
+  .dropdowndemo{
+  position:fixed;
+  display: block;
+  padding-left: 720px;
+  width: 100%;
+  
+  }
+  .dropdownlist-content 
+  {
+  display: none;
+  position:absolute;
+  background-color:green;
+  min-width:120px;
+  z-index:1;
+  }
+  .dropdownlist-content a{
+    color:white;
+    padding:14px 18px;
+    display:block;
+  }
+  .dropdownlist-content a.hover{ background-color: black;}
+  .dropdowndemo:hover .dropdownlist-content{display:block;}

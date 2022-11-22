@@ -1,0 +1,92 @@
+.intro-pagewelcome {
+    color: #303a29;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 25px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-family: Hepta Slab;
+    font-size: 2.25rem;
+    font-weight: 400;
+    line-height: 45px;
+    display: flex;
+  }
+  
+  .bg-11-1welcome {
+    height: 100%;
+    background-image: url("https://i.pinimg.com/564x/8f/4f/79/8f4f79f5b259f21d06a49f973f2d989c.jpg");
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-left: 26px;
+    padding-right: 36px;
+    display: flex;
+  }
+  
+  .w-e-l-c-o-m-e-s-y-owelcome {
+    margin-bottom: 61px;
+    margin-left: 5px;
+  }
+  .link1welcome{
+    text-decoration:none;
+    color: #050b01;
+    
+    border-radius: 25px;
+  }
+  .clickwelcome{
+    background-color: yellowgreen;
+    border-radius: 25px;
+    width: 10%;
+  }
+  .rectangle-1welcome {
+    color: #f1fff4;
+    text-align: center;
+    width: 60%;
+    background-color: #49a010;
+    border: none;
+    border-radius: 25px;
+    flex-direction: row;
+    flex-basis: 20%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 121px;
+    margin-left: 12px;
+    padding-bottom: 1px;
+    padding-left: 3px;
+    font-family: Inter;
+    font-size: 6rem;
+    font-weight: 400;
+    line-height: 116px;
+    display: flex;
+  }
+  
+  .irrigreatwelcome {
+    margin-bottom: 1px;
+    margin-left: 1px;
+  }
+  
+  .rectangle-2welcome {
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    background-color: #49a010;
+    border: none;
+    border-radius: 25px;
+    flex-direction: row;
+    flex-basis: 11%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3px;
+    padding-bottom: -20px;
+    font-family: Donegal One;
+    font-size: 2.25rem;
+    font-weight: 400;
+    line-height: 45px;
+    display: flex;
+  }
+  

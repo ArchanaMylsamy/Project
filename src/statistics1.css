@@ -1,0 +1,77 @@
+.num-2019 {
+    text-align: center;
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 25px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-family: Inter;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 39px;
+    display: flex;
+  }
+  
+  .image-17 {
+    height: 100%;
+    background-image: url("https://wallpaperaccess.com/full/1154377.jpg");
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-around;
+    align-items: flex-end;
+    padding-bottom: 80px;
+    padding-left: 23px;
+    padding-right: 26px;
+    display: flex;
+  }
+  
+  .flex-container {
+    width: 60%;
+    flex-direction: row;
+    flex-basis: 3%;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+  }
+  
+  .home {
+    align-self: flex-start;
+    margin-right: 22px;
+  }
+  
+  .services {
+    align-self: flex-start;
+    margin-left: -7px;
+  }
+  
+  .about-us {
+    align-self: flex-end;
+    margin-left: 2px;
+  }
+  
+  .contact {
+    align-self: flex-end;
+    margin-right: 100px;
+  }
+  
+  .frame-30 {
+    width: 35%;
+    flex-direction: row;
+    flex-basis: 61%;
+    justify-content: center;
+    align-self: center;
+    align-items: flex-end;
+    margin-bottom: 56px;
+    margin-left: 50px;
+    margin-right:20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    display: flex;
+    background: url("https://cdn.downtoearth.org.in/library/large/2020-01-31/0.59231800_1580473561_01.jpg");
+    background-repeat: no-repeat;
+  }

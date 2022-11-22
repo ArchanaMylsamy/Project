@@ -1,0 +1,130 @@
+.registersignup {
+  color: #000;
+  width: 100%;
+  height: 100%;
+  background-color: #bcd6b5e6;
+  
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Expletus Sans;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 64px;
+  display: flex;
+}
+
+.bgsignup{
+  height: 100%;
+  background-image: url("https://i.pinimg.com/564x/fc/36/fa/fc36fa7816fe1847b3dcbc352f227a0f.jpg");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 6px 80px 28px 5px;
+  display: flex;
+}
+
+.rec-8signup {
+  text-align: center;
+  width: 35%;
+  background-color: #aad09f;
+  border-radius: 25px;
+  flex-direction: row;
+  flex-basis: 10%;
+  justify-content: center;
+  align-self: flex-end;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 4px;
+  padding-top: 13px;
+  padding-right: 11px;
+  display: flex;
+}
+
+.rect-9signup {
+  color: #5b3e3e;
+  width: 80%;
+  height:79%;
+  background-color: #d9f1da;
+  border-radius: 25px;
+  flex-direction: row;
+  flex-basis: 54%;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2px;
+  margin-left: 8px;
+  padding: 25px 63px 29px 38px;
+  display: flex;
+  opacity: 0.7;
+}
+
+.flexsignup{
+  height: 70%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: stretch;
+  display: flex;
+}
+
+.recta-15signup, .recta-14signup {
+  width: 360px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+.linksignup{
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #49a010;
+  color: white;
+  
+}
+.recta-13signup {
+  width: 360px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-bottom: 4px;
+}
+
+.recta-12signup {
+  width: 360px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-top: 1px;
+  color:black;
+}
+
+.rec-7signup {
+  text-align: center;
+  color: #fcfffb;
+  width: 100%;
+  background-color: #49a010;
+  border: none;
+  border-radius: 25px;
+  flex-direction: row;
+  flex-basis: 8%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3px;
+  padding-top: 3px;
+  padding-left: 4px;
+  font-family: Expletus Sans;
+  font-size: 2.15rem;
+  font-weight: 400;
+  line-height: 48px;
+  display: flex;
+}
+
+.signsignup {
+  margin-top: 1px;
+  margin-left: 4px;
+}
+.buttonsignup{
+  width:50%;
+}
